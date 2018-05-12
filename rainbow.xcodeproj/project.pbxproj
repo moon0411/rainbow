@@ -12,6 +12,7 @@
 		7360867820A592D700A48DD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7360867620A592D700A48DD3 /* Main.storyboard */; };
 		7360867A20A592D900A48DD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7360867920A592D900A48DD3 /* Assets.xcassets */; };
 		7360867D20A592D900A48DD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7360867B20A592D900A48DD3 /* LaunchScreen.storyboard */; };
+		7360868920A593E600A48DD3 /* RainbowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7360868820A593E600A48DD3 /* RainbowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7360867920A592D900A48DD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7360867C20A592D900A48DD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7360867E20A592D900A48DD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7360868820A593E600A48DD3 /* RainbowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RainbowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7360867220A592D700A48DD3 /* AppDelegate.swift */,
 				7360867420A592D700A48DD3 /* ViewController.swift */,
 				7360867620A592D700A48DD3 /* Main.storyboard */,
+				7360868820A593E600A48DD3 /* RainbowViewController.swift */,
 				7360867920A592D900A48DD3 /* Assets.xcassets */,
 				7360867B20A592D900A48DD3 /* LaunchScreen.storyboard */,
 				7360867E20A592D900A48DD3 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				7360867520A592D700A48DD3 /* ViewController.swift in Sources */,
 				7360867320A592D700A48DD3 /* AppDelegate.swift in Sources */,
+				7360868920A593E600A48DD3 /* RainbowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
